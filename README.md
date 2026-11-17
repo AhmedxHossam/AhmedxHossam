@@ -1,134 +1,162 @@
-<div align="center">
+&#x20;\<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:FFB6D9,50:FF69B4,100:DB5A91&text=Haidy%20Ehab&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Back-End%20Explorer%20%7C%20Creative%20Content%20Creator&descAlignY=62&descSize=14" />
+\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&height=190&color=0:9B8AFB,50\:B58AF7,100\:EC8BCB&text=Ahmed%20Hossam&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20Machine%20Learning&descAlignY=62&descSize=14](https://capsule-render.vercel.app/api?type=waving\&height=190\&color=0:9B8AFB,50\:B58AF7,100\:EC8BCB\&text=Ahmed%20Hossam\&fontColor=FFFFFF\&fontSize=52\&fontAlignY=38\&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20Machine%20Learning\&descAlignY=62\&descSize=14)" />
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3200&pause=1100&color=FF8FC7&center=true&vCenter=true&width=650&lines=Building+thoughtful+digital+experiences;Learning+by+building%2C+one+project+at+a+time;Code+meets+creativity" alt="Typing SVG" />
-</a>
+\<a href="[https://readme-typing-svg.demolab.com](https://readme-typing-svg.demolab.com)">   \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3200&pause=1100&color=B58AF7&center=true&vCenter=true&width=750&lines=Building+Intelligent+AI+Systems;Exploring+LLMs%2C+RAG+%26+Agentic+AI;Turning+Ideas+Into+Practical+AI+Solutions;Learning+%E2%80%A2+Building+%E2%80%A2+Innovating](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=17\&duration=3200\&pause=1100\&color=B58AF7\&center=true\&vCenter=true\&width=750\&lines=Building+Intelligent+AI+Systems;Exploring+LLMs%2C+RAG+%26+Agentic+AI;Turning+Ideas+Into+Practical+AI+Solutions;Learning+%E2%80%A2+Building+%E2%80%A2+Innovating)" alt="Typing SVG" /> \</a>
 
-<br/>
+\<br/>
 
-<a href="https://www.linkedin.com/in/haidy-ehab-47230530a">
-  <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/haidyyehabb._/">
-  <img src="https://img.shields.io/badge/Instagram-DB5A91?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="mailto:haidyehab162004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FFB6D9?style=flat-square&logo=gmail&logoColor=29212A" alt="Email"/>
-</a>
+\<a href="[https://github.com/AhmedxHossam](https://github.com/AhmedxHossam)">   \<img src="[https://img.shields.io/badge/GitHub-9B8AFB?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-9B8AFB?style=flat-square\&logo=github\&logoColor=white)" alt="GitHub"/> \</a> \<a href="[https://www.linkedin.com/](https://www.linkedin.com/)">   \<img src="[https://img.shields.io/badge/LinkedIn-B58AF7?style=flat-square&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-B58AF7?style=flat-square\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/> \</a>
 
-</div>
+\</div>
 
 ---
 
 ## About Me
 
 ```bash
-┌──[haidy@developer]─[~]
+┌──[ahmed@ai-engineer]─[~]
 └─$ cat about.txt
 
-name        : "Haidy Ehab"
-role        : "Front-End Developer | Back-End Explorer"
-background  : "Business Information Systems"
-focus       : "Web Development & Digital Experiences"
-interests   : "Technology, Creative Work & Content Creation"
-mindset     : "Learn. Build. Improve. Repeat."
+name        : "Ahmed Hossam"
+role        : "AI Engineer"
+background  : "Electronics Engineering"
+specialty   : "Artificial Intelligence & Data Science"
+focus       : "Generative AI, LLMs & Agentic AI"
+languages   : "Python, SQL"
+interests   : "Machine Learning, Deep Learning & AI Systems"
+mindset     : "Learn. Build. Experiment. Improve."
 
 mission: >
-  I enjoy turning ideas into responsive, accessible, and
-  engaging web experiences.
+  I am an AI Engineer with an Electronics Engineering
+  background and a strong interest in building practical
+  intelligent systems.
 
-  I work on strengthening my front-end skills with
-  JavaScript and React while exploring back-end development
-  and the way complete web applications work behind
-  the scenes.
+  My journey in AI and Data Science has taken me through
+  Machine Learning, Deep Learning, Natural Language
+  Processing, and Generative AI.
 
-  I’m also interested in the creative side of technology,
-  from motion and visual storytelling to content creation.
+  I am particularly interested in Large Language Models,
+  Retrieval-Augmented Generation (RAG), and Agentic AI,
+  exploring how intelligent agents can reason, use tools,
+  interact with data, and automate complex workflows.
 
-currently   : "Growing my skills through hands-on projects"
-open_to     : "Learning, collaboration & new opportunities"
+  I enjoy combining technical learning with hands-on
+  projects to turn AI concepts into real-world solutions.
+
+currently   : "AI Engineering Training & Hands-on Projects"
+learning    : "Advanced Agentic AI & AI System Design"
+open_to     : "AI Engineering Opportunities & Collaboration"
 ```
 
 ## What I Build
 
-|  | **Area** | **Description** |
-|:---:|---|---|
-| ◈ | **Business Websites** | Responsive websites that present brands, services, and ideas clearly. |
-| ◈ | **Front-End Applications** | Interactive web experiences built around usability and clean interfaces. |
-| ◈ | **E-Commerce Experiences** | Online shopping interfaces for browsing products and managing a store experience. |
-| ◈ | **Learning Platforms** | Educational experiences that help learners explore and organize learning content. |
-| ◈ | **Task Management Apps** | Applications with dynamic interactions, CRUD workflows, and API integration. |
-| ◈ | **API Integration** | Connecting front-end interfaces with back-end services and data. |
-| ◈ | **Animated Interfaces** | Thoughtful motion and interactive details that bring interfaces to life. |
+|     | **Area**                          | **Description**                                                                                 |
+| :-: | --------------------------------- | ----------------------------------------------------------------------------------------------- |
+|  ◈  | **Generative AI Applications**    | Building applications powered by LLMs and generative AI models.                                 |
+|  ◈  | **AI Agents & Automation**        | Developing intelligent agents, tool-calling workflows, and task automation.                     |
+|  ◈  | **RAG Systems**                   | Connecting LLMs with external knowledge sources through retrieval and semantic search.          |
+|  ◈  | **Machine Learning**              | Developing predictive models, performing feature engineering, and evaluating model performance. |
+|  ◈  | **Deep Learning & NLP**           | Exploring neural networks, sequence models, and natural language understanding.                 |
+|  ◈  | **Data Analysis & Visualization** | Transforming raw data into actionable insights using Python, SQL, and Power BI.                 |
+|  ◈  | **AI-Powered Solutions**          | Integrating models, APIs, databases, and automation into practical applications.                |
 
 ## Tech Stack
 
-**Frontend Engineering**
+**Programming & Data Science**
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-FF69B4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Bootstrap-FF69B4?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-</p>
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/Python-9B8AFB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-9B8AFB?style=for-the-badge\&logo=python\&logoColor=white)" alt="Python"/>
+&#x20; \<img src="[https://img.shields.io/badge/SQL-9B8AFB?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/SQL-9B8AFB?style=for-the-badge\&logo=postgresql\&logoColor=white)" alt="SQL"/>
+&#x20; \<img src="[https://img.shields.io/badge/Pandas-9B8AFB?style=for-the-badge&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-9B8AFB?style=for-the-badge\&logo=pandas\&logoColor=white)" alt="Pandas"/>
+&#x20; \<img src="[https://img.shields.io/badge/NumPy-9B8AFB?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/NumPy-9B8AFB?style=for-the-badge\&logo=numpy\&logoColor=white)" alt="NumPy"/>
+&#x20; \<img src="[https://img.shields.io/badge/Scikit--Learn-9B8AFB?style=for-the-badge&logo=scikitlearn&logoColor=white](https://img.shields.io/badge/Scikit--Learn-9B8AFB?style=for-the-badge\&logo=scikitlearn\&logoColor=white)" alt="Scikit-learn"/>
+\</p>
 
-**Backend Engineering**
+**Machine Learning & Deep Learning**
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-DB5A91?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-DB5A91?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-</p>
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/TensorFlow-B58AF7?style=for-the-badge&logo=tensorflow&logoColor=white](https://img.shields.io/badge/TensorFlow-B58AF7?style=for-the-badge\&logo=tensorflow\&logoColor=white)" alt="TensorFlow"/>
+&#x20; \<img src="[https://img.shields.io/badge/Keras-B58AF7?style=for-the-badge&logo=keras&logoColor=white](https://img.shields.io/badge/Keras-B58AF7?style=for-the-badge\&logo=keras\&logoColor=white)" alt="Keras"/>
+&#x20; \<img src="[https://img.shields.io/badge/Deep_Learning-B58AF7?style=for-the-badge&logo=pytorch&logoColor=white](https://img.shields.io/badge/Deep_Learning-B58AF7?style=for-the-badge\&logo=pytorch\&logoColor=white)" alt="Deep Learning"/>
+\</p>
 
-**Database Systems**
+**Generative AI & Agentic AI**
 
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-EA83B0?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-EA83B0?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
+\<p>   \<img src="[https://img.shields.io/badge/LangChain-EC8BCB?style=for-the-badge&logo=chainlink&logoColor=white](https://img.shields.io/badge/LangChain-EC8BCB?style=for-the-badge\&logo=chainlink\&logoColor=white)" alt="LangChain"/>   \<img src="[https://img.shields.io/badge/LangGraph-EC8BCB?style=for-the-badge&logo=langgraph&logoColor=white](https://img.shields.io/badge/LangGraph-EC8BCB?style=for-the-badge\&logo=langgraph\&logoColor=white)" alt="LangGraph"/>   \<img src="[https://img.shields.io/badge/RAG-EC8BCB?style=for-the-badge&logo=databricks&logoColor=white](https://img.shields.io/badge/RAG-EC8BCB?style=for-the-badge\&logo=databricks\&logoColor=white)" alt="RAG"/>   \<img src="[https://img.shields.io/badge/OpenAI-EC8BCB?style=for-the-badge&logo=openai&logoColor=white](https://img.shields.io/badge/OpenAI-EC8BCB?style=for-the-badge\&logo=openai\&logoColor=white)" alt="OpenAI"/>   \<img src="[https://img.shields.io/badge/Gemini-EC8BCB?style=for-the-badge&logo=googlegemini&logoColor=white](https://img.shields.io/badge/Gemini-EC8BCB?style=for-the-badge\&logo=googlegemini\&logoColor=white)" alt="Gemini"/>   \<img src="[https://img.shields.io/badge/Hugging_Face-EC8BCB?style=for-the-badge&logo=huggingface&logoColor=white](https://img.shields.io/badge/Hugging_Face-EC8BCB?style=for-the-badge\&logo=huggingface\&logoColor=white)" alt="Hugging Face"/> \</p>
 
-**Animations & Motion**
+**Vector Databases & Backend**
 
-<p>
-  <img src="https://img.shields.io/badge/GSAP-FF69B4?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-FF69B4?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
-</p>
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/FAISS-9B8AFB?style=for-the-badge&logo=meta&logoColor=white](https://img.shields.io/badge/FAISS-9B8AFB?style=for-the-badge\&logo=meta\&logoColor=white)" alt="FAISS"/>
+&#x20; \<img src="[https://img.shields.io/badge/PostgreSQL-9B8AFB?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-9B8AFB?style=for-the-badge\&logo=postgresql\&logoColor=white)" alt="PostgreSQL"/>
+&#x20; \<img src="[https://img.shields.io/badge/FastAPI-9B8AFB?style=for-the-badge&logo=fastapi&logoColor=white](https://img.shields.io/badge/FastAPI-9B8AFB?style=for-the-badge\&logo=fastapi\&logoColor=white)" alt="FastAPI"/>
+&#x20; \<img src="[https://img.shields.io/badge/Streamlit-9B8AFB?style=for-the-badge&logo=streamlit&logoColor=white](https://img.shields.io/badge/Streamlit-9B8AFB?style=for-the-badge\&logo=streamlit\&logoColor=white)" alt="Streamlit"/>
+\</p>
 
-**Developer Tools**
+**Data Visualization & Business Intelligence**
 
-<p>
-  <img src="https://img.shields.io/badge/Git-DB5A91?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-DB5A91?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-DB5A91?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Postman-DB5A91?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Figma-DB5A91?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/npm-DB5A91?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-</p>
+\<p>   \<img src="[https://img.shields.io/badge/Power_BI-B58AF7?style=for-the-badge&logo=powerbi&logoColor=white](https://img.shields.io/badge/Power_BI-B58AF7?style=for-the-badge\&logo=powerbi\&logoColor=white)" alt="Power BI"/>   \<img src="[https://img.shields.io/badge/Excel-B58AF7?style=for-the-badge&logo=microsoftexcel&logoColor=white](https://img.shields.io/badge/Excel-B58AF7?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)" alt="Excel"/> \</p>
+
+**Developer Tools & Platforms**
+
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/Git-EC8BCB?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-EC8BCB?style=for-the-badge\&logo=git\&logoColor=white)" alt="Git"/>
+&#x20; \<img src="[https://img.shields.io/badge/GitHub-EC8BCB?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-EC8BCB?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>
+&#x20; \<img src="[https://img.shields.io/badge/Docker-EC8BCB?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-EC8BCB?style=for-the-badge\&logo=docker\&logoColor=white)" alt="Docker"/>
+&#x20; \<img src="[https://img.shields.io/badge/VS_Code-EC8BCB?style=for-the-badge&logo=visualstudiocode&logoColor=white](https://img.shields.io/badge/VS_Code-EC8BCB?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)" alt="VS Code"/>
+&#x20; \<img src="[https://img.shields.io/badge/Jupyter-EC8BCB?style=for-the-badge&logo=jupyter&logoColor=white](https://img.shields.io/badge/Jupyter-EC8BCB?style=for-the-badge\&logo=jupyter\&logoColor=white)" alt="Jupyter"/>
+&#x20; \<img src="[https://img.shields.io/badge/Google_Colab-EC8BCB?style=for-the-badge&logo=googlecolab&logoColor=white](https://img.shields.io/badge/Google_Colab-EC8BCB?style=for-the-badge\&logo=googlecolab\&logoColor=white)" alt="Google Colab"/>
+\</p>
 
 ## Featured Projects
 
-*A selection of projects I’ve built or am currently developing. Live demos and repository links will be added as they’re published.*
+*A selection of AI and Data Science projects focused on solving practical problems through intelligent systems.*
 
-| **Project** | **Overview** | **Status** |
-|---|---|:---:|
-| **E-Commerce Platform** | A web-based shopping experience focused on product presentation and browsing. | Built |
-| **TrackLearn** | An e-learning platform centered around programming education. | In progress |
-| **To-Do List Application** | A task management web app built to practice JavaScript, CRUD operations, and API integration. | Built |
-| **Beauty Website** | A beauty and cosmetics-inspired e-commerce experience. | Built |
-| **Movie App** | A movie discovery interface for exploring film information. | Built |
-| **Animation Showcase** | A creative web experiment focused on animation and motion. | Built |
+| **Project**                            | **Overview**                                                                                                               | **Focus**                           |
+| -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| **Digilier AI – AI Learning Platform** | A RAG-powered learning platform that transforms educational materials into interactive, grounded learning experiences.     | RAG, GraphRAG, NLP, LangChain       |
+| **AI News Aggregator**                 | An AI-powered platform that collects, analyzes, summarizes, and personalizes AI-related news and research.                 | LLMs, RAG, Python, PostgreSQL       |
+| **Fitness Tracker**                    | A wearable-sensor-based exercise recognition system that analyzes motion data and classifies strength-training activities. | Machine Learning, Signal Processing |
+| **RAG-Based Course Assistant**         | A conversational assistant that retrieves relevant information from course PDFs and generates context-aware answers.       | RAG, FAISS, Embeddings, Streamlit   |
+| **Toxic Comment Classification**       | A multi-label text classification model designed to identify different categories of toxic online comments.                | NLP, BiLSTM, Deep Learning          |
+| **Brain Tumor Detection**              | A computer vision project exploring deep learning techniques for brain tumor image classification.                         | Computer Vision, Deep Learning      |
 
+## Education & Certifications
 
+- **Digital Egypt Pioneers Initiative (DEPI) / Digilians Scholarship** — AI & Data Science Track.
+- **Machine Learning Specialization** — DeepLearning.AI & Stanford Online (Andrew Ng).
+- **McKinsey.org Forward Program** — Professional Development Program.
+- **Electronics Engineering** — Academic Background.
+
+## Currently Exploring
+
+- Advanced Agentic AI architectures and multi-agent systems.
+- LangGraph workflows, state management, and human-in-the-loop interactions.
+- Advanced RAG pipelines, hybrid retrieval, and GraphRAG.
+- LLM evaluation, reliability, and production-ready AI systems.
+- AI Engineering best practices and system design.
+
+## GitHub Analytics
+
+\<div align="center">
+
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=AhmedxHossam&show_icons=true&theme=midnight-purple&hide_border=true&title_color=B58AF7&icon_color=EC8BCB&text_color=FFFFFF&bg_color=0D1117](https://github-readme-stats.vercel.app/api?username=AhmedxHossam\&show_icons=true\&theme=midnight-purple\&hide_border=true\&title_color=B58AF7\&icon_color=EC8BCB\&text_color=FFFFFF\&bg_color=0D1117)" alt="GitHub Stats"/>
+
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedxHossam&layout=compact&theme=midnight-purple&hide_border=true&title_color=B58AF7&text_color=FFFFFF&bg_color=0D1117](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedxHossam\&layout=compact\&theme=midnight-purple\&hide_border=true\&title_color=B58AF7\&text_color=FFFFFF\&bg_color=0D1117)" alt="Top Languages"/>
+
+\<img width="90%" src="[https://github-readme-streak-stats.herokuapp.com/?user=AhmedxHossam&theme=midnight-purple&hide_border=true&ring=B58AF7&fire=EC8BCB&currStreakLabel=B58AF7](https://github-readme-streak-stats.herokuapp.com/?user=AhmedxHossam\&theme=midnight-purple\&hide_border=true\&ring=B58AF7\&fire=EC8BCB\&currStreakLabel=B58AF7)" alt="GitHub Streak"/>
+
+\</div>
 
 ---
 
-<div align="center">
+\<div align="center">
 
-Thanks for visiting my profile.
+\<img src="[https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:9B8AFB,50\:B58AF7,100\:EC8BCB](https://capsule-render.vercel.app/api?type=waving\&height=100\&section=footer\&color=0:9B8AFB,50\:B58AF7,100\:EC8BCB)" width="100%"/>
 
-**Building, learning, and creating — one commit at a time.**
+**Thanks for visiting my profile!**
 
-</div>
+*Building intelligent systems, one experiment at a time.*
+
+\</div>
