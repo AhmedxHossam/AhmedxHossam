@@ -1,6 +1,6 @@
- <div align="center">
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:071B22,50:167D91,100:00D1C1&text=Ahmed%20Hossam&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Engineering%20%7C%20Agentic%20AI&descAlignY=62&descSize=14" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B1020,50:2563EB,100:22D3EE&text=Ahmed%20Hossam&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Engineering%20%7C%20Agentic%20AI&descAlignY=62&descSize=14" />
 
 <br/>
 
@@ -10,9 +10,9 @@
 
 <br/>
 
-<a href="https://github.com/AhmedxHossam"><img src="https://img.shields.io/badge/GitHub-071B22?style=for-the-badge&logo=github&logoColor=00D1C1" /></a>
-<a href="https://www.linkedin.com/in/ahmed-hossam-rashad"><img src="https://img.shields.io/badge/LinkedIn-167D91?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ahmedhos127@gmail.com"><img src="https://img.shields.io/badge/Email-00D1C1?style=for-the-badge&logo=gmail&logoColor=071B22" /></a>
+<a href="https://github.com/AhmedxHossam"><img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=22D3EE" /></a>
+<a href="https://www.linkedin.com/in/ahmed-hossam-rashad"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ahmedhos127@gmail.com"><img src="https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=0B1020" /></a>
 
 </div>
 
@@ -78,6 +78,6 @@ I focus on combining AI capabilities with solid software engineering practices t
 
 *Always open to learning, collaborating, and building meaningful AI solutions.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:071B22,50:167D91,100:00D1C1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0B1020,50:2563EB,100:22D3EE" />
 
 </div>
